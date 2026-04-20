@@ -134,6 +134,16 @@
 ## <p align="center"> ✅ Completed Reads</p>
 
 <!-- GOODREADS-READ-LIST:START -->
+- [Flesh](https://www.goodreads.com/review/show/8527144597?utm_medium=api&utm_source=rss) by David Szalay (⭐️3.67)
+- [Conversations with Friends](https://www.goodreads.com/review/show/8527144488?utm_medium=api&utm_source=rss) by Sally Rooney (⭐️3.73)
+- [Just Kids](https://www.goodreads.com/review/show/8527144373?utm_medium=api&utm_source=rss) by Patti Smith (⭐️4.21)
+- [Steve Jobs](https://www.goodreads.com/review/show/8527144275?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐️4.15)
+- [We Did Ok, Kid: A Memoir](https://www.goodreads.com/review/show/8527144155?utm_medium=api&utm_source=rss) by Anthony Hopkins (⭐️4.06)
+- [A Promised Land](https://www.goodreads.com/review/show/8527143911?utm_medium=api&utm_source=rss) by Barack Obama (⭐️4.3)
+- [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/review/show/8527143811?utm_medium=api&utm_source=rss) by Ashlee Vance (⭐️4.1)
+- [The Autobiography of Malcolm X](https://www.goodreads.com/review/show/8527143717?utm_medium=api&utm_source=rss) by Malcolm X (⭐️4.35)
+- [It Chooses You](https://www.goodreads.com/review/show/8527143547?utm_medium=api&utm_source=rss) by Miranda July (⭐️4.01)
+- [Anatomy for the Artist](https://www.goodreads.com/review/show/8527143446?utm_medium=api&utm_source=rss) by Sarah Simblet (⭐️4.08)
 <!-- GOODREADS-READ-LIST:END -->
 
 ## <p align="center"> 🔄 Currently Reading</p>
