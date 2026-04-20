@@ -125,7 +125,7 @@
 ## <p align="center"> 📖 Next on My List</p>
 
 <div align="center">
-  <img height="300" src="https://media.giphy.com/media/Dvx8TYTxkbq4o/giphy.gif" alt="reading-gif"/>
+  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBteHdtZ25peTFyYXBtMGcza3QxMG5mcDE2bjN1NXpjMGpiZ3ZqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E1lFyWjy13aZ1DvnZL/giphy.gif" alt="reading-gif"/>
 </div>
 
 <!-- GOODREADS-TO-READ-LIST:START -->
