@@ -1,0 +1,162 @@
+<h2>
+  <span>Hi there! 👋 I'm İsa. Welcome to my GitHub profile. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <span style="float: right;">
+    <img src="https://komarev.com/ghpvc/?username=ibznroglu" alt="profile views">
+  </span>
+</h2>
+<div style="clear: both;"></div>
+
+<h2 align="center">👨‍💻 Who Am I</h2>
+
+<div align="center">
+  <strong>
+    Front-End Developer | React · Vue.js · Next.js | TypeScript | AI-Assisted Development
+  </strong>
+  <br/>
+  <br/>
+  <br/>
+
+<img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFqMXliMWJ3d3c1OW5ic3diOWs0NXc3dmRndWJ4NHNkZnAwcTJoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="coding-gif"/>
+
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/isabezeniroglu/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ibznroglu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail"/>
+  </a>
+  <a href="https://isabezeniroglu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=24292F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Website"/>
+  </a>
+  <a href="https://medium.com/@ibznroglu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Medium"/>
+  </a>
+</div>
+
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+🎯 **Building scalable, high-performance web interfaces — from enterprise banking platforms to AI-assisted developer workflows.**
+
+💼 I'm a **Front-End Developer** with hands-on experience delivering production-grade web applications using **React, TypeScript, Vue.js, and Next.js**. My professional background spans enterprise-level banking and public sector projects, including valuation platforms used by major Turkish banks such as **Halkbank** and clients like the **Land Registry Directorate of Turkey**.
+
+🚀 I bring a strong foundation in **component-based architecture, REST API integration, CI/CD pipelines, and Agile/Scrum delivery**. I care deeply about clean code, SOLID principles, performance optimization, and cross-functional collaboration.
+
+🤖 I actively integrate **AI-assisted development** into my daily workflow — including **Claude Code** with CLAUDE.md-based context management, custom slash commands, and agent workflow automation — to accelerate delivery, improve code quality, and reduce repetitive overhead.
+
+🎓 I hold a **Bachelor's Degree in Computer Education & Instructional Technology** from Uludağ University, and I'm currently pursuing an **Advanced React Certificate** from Scrimba.
+
+🔗 View my resume: https://isabezeniroglu.vercel.app/isa_bezeniroglu_resume.pdf
+
+<h2 align="center">🧰 Tech Stack & Tools</h2>
+
+#### 💻 Core Technologies
+
+`React` `TypeScript` `JavaScript (ES6+)` `Vue.js (Vue 3, Composition API)` `Next.js` `React Native` `HTML` `CSS` `SCSS` `Tailwind CSS`
+
+#### 🧱 UI Libraries & Design
+
+`Material UI (MUI)` `Ant Design` `Figma` `Adobe Photoshop` `Adobe Illustrator`
+
+#### 🗂️ State Management & Architecture
+
+`Redux` `Context API` `Advanced React Patterns` `Component Architecture` `SOLID` `OOP` `BDD` `Unit Testing`
+
+#### 🌐 APIs & Performance
+
+`REST APIs` `API Integration` `Performance Optimization` `Responsive Design` `Cross-Browser Compatibility`
+
+#### ⚙️ DevOps & Tools
+
+`Git` `GitHub` `GitLab` `GitHub Actions` `Jenkins` `CI/CD Pipelines` `SonarQube` `Docker`
+
+#### 🤖 AI-Assisted Development
+
+`Claude Code` `CLAUDE.md Context Management` `Custom Slash Commands` `Agent Workflow Automation` `Subagent Orchestration` `Prompt Engineering` `AI-Assisted Code Generation & Refactoring`
+
+#### 🧪 Methodologies & Collaboration
+
+`Agile` `Scrum` `Jira` `Confluence` `Cross-functional Collaboration`
+
+<div align="center">
+  <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxnaGRxcWF3bWNmMzJyN2g3MHpoNG1zNWhuaHJyemE2endiOGgybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4tJTOagKdHix67E73o/giphy.gif" alt="Up-gif"/>
+</div>
+
+---
+
+<h2 align="center">📈 Stats</h2>
+
+<h2><p align="center"> ⚡ GitHub</p></h2>
+
+<p align="center">
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibznroglu&theme=react" alt="Profile Details"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibznroglu&theme=react" alt="Repos per Language"/>
+</p>
+<p align="center">
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibznroglu&theme=react" alt="Most Used Language"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibznroglu&theme=react" alt="Stats"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ibznroglu&theme=react&utcOffset=3" alt="Productive Time"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibznroglu&theme=react" alt="GitHub Streak"/>
+</p>
+
+---
+
+<h2 align="center">💼 Experience Highlights</h2>
+
+### 🏦 KEY YAZILIM — Front-End Developer *(Nov 2023 – Jan 2026)*
+> *Clients: Halkbank, Land Registry Directorate of Turkey — Invex, Hypotex, Propex platforms*
+
+- Developed enterprise-level real estate valuation web apps used by major Turkish banks
+- Built scalable, responsive UIs with **React** and **TypeScript**
+- Delivered features via **CI/CD pipelines** (GitHub Actions, Jenkins) within Agile sprints
+- Applied **BDD**, SOLID principles, and code reviews to maintain quality
+
+### 🛒 FREELANCE — Front-End Developer *(Mar 2023 – Jun 2023)*
+- Built a full-featured **e-commerce web app** with React and JavaScript
+- Focused on performance optimization, responsive design, and API integration
+
+### 🌐 TENOKS — Web Development & Network Admin *(Jan 2019 – Feb 2022)*
+- Managed corporate website with WordPress
+- Handled hardware maintenance and network infrastructure
+
+---
+
+<h2 align="center">🎓 Education & Certifications</h2>
+
+🎓 **Uludağ University** — Bachelor's in Computer Education & Instructional Technology *(2011–2016)*
+
+🏫 **Ahmet Çiçek Anatolian Technical High School** — Web Technologies & Software *(2007–2011)*
+
+📜 **Advanced React Certificate** — Scrimba *(Jun 2025 – Dec 2025)*
+
+📜 **Front-End Developer Training Program** — Techpro Education *(2022–2023)*
+
+---
+
+<h2 align="center">👏 Support My Work</h2>
+
+<p align="center">
+  If you find my work helpful or inspiring, consider buying me a coffee!
+</p>
+
+<div align="center">
+  <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRqMWplMm1seGxwaG41M2Nib2hibWg1dGg5a212cXZ4dGptenJtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JmxUEPJmVhZPkycY91/giphy.gif" alt="Support-gif"/>
+</div>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/ibznroglu" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
+         alt="Buy Me A Coffee" 
+         style="height: 45px; width: 180px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  </a>
+</p>
+
+---
+
+<h3 align="center">Let's Connect — I'm always open to collaborate and share ideas! 🚀</h3>
