@@ -1,0 +1,40 @@
+name: Goodreads reading list workflow
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-goodreads:
+    name: Update README with Goodreads reading list
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Pull currently reading books
+        uses: zwacky/goodreads-profile-workflow@main
+        with:
+          goodreads_user_id: "200390160"
+          shelf: "currently-reading"
+          commit_message: "docs: update currently reading books from Goodreads"
+
+      - name: Pull completed reads
+        uses: zwacky/goodreads-profile-workflow@main
+        with:
+          goodreads_user_id: "200390160"
+          shelf: "read"
+          comment_tag_name: "GOODREADS-READ-LIST"
+          commit_message: "docs: update completed reads from Goodreads"
+
+      - name: Pull to-read books
+        uses: zwacky/goodreads-profile-workflow@main
+        with:
+          goodreads_user_id: "200390160"
+          shelf: "to-read"
+          comment_tag_name: "GOODREADS-TO-READ-LIST"
+          commit_message: "docs: update to-read list from Goodreads"
