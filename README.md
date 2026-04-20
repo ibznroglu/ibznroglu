@@ -89,7 +89,7 @@
 
 <h2 align="center">📈 Stats</h2>
 
-<h2><p align="center"> ⚡ GitHub</p></h2>
+## <p align="center"> ⚡ GitHub</p>
 
 <p align="center">
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibznroglu&theme=react" alt="Profile Details"/>
@@ -105,44 +105,48 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibznroglu&theme=react" alt="GitHub Streak"/>
 </p>
 
----
+## <p align="center"> 🌐 3D Contribution Graph</p>
 
-<h2 align="center">💼 Experience Highlights</h2>
-
-### 🏦 KEY YAZILIM — Front-End Developer *(Nov 2023 – Jan 2026)*
-> *Clients: Halkbank, Land Registry Directorate of Turkey — Invex, Hypotex, Propex platforms*
-
-- Developed enterprise-level real estate valuation web apps used by major Turkish banks
-- Built scalable, responsive UIs with **React** and **TypeScript**
-- Delivered features via **CI/CD pipelines** (GitHub Actions, Jenkins) within Agile sprints
-- Applied **BDD**, SOLID principles, and code reviews to maintain quality
-
-### 🛒 FREELANCE — Front-End Developer *(Mar 2023 – Jun 2023)*
-- Built a full-featured **e-commerce web app** with React and JavaScript
-- Focused on performance optimization, responsive design, and API integration
-
-### 🌐 TENOKS — Web Development & Network Admin *(Jan 2019 – Feb 2022)*
-- Managed corporate website with WordPress
-- Handled hardware maintenance and network infrastructure
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+</p>
 
 ---
 
-<h2 align="center">🎓 Education & Certifications</h2>
+<h2 align="center">✍️ Latest Blog Posts</h2>
 
-🎓 **Uludağ University** — Bachelor's in Computer Education & Instructional Technology *(2011–2016)*
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-🏫 **Ahmet Çiçek Anatolian Technical High School** — Web Technologies & Software *(2007–2011)*
+---
 
-📜 **Advanced React Certificate** — Scrimba *(Jun 2025 – Dec 2025)*
+<h2 align="center">📚 Reading Journey</h2>
 
-📜 **Front-End Developer Training Program** — Techpro Education *(2022–2023)*
+## <p align="center"> 📖 Next on My List</p>
+
+<div align="center">
+  <img height="300" src="https://media.giphy.com/media/Dvx8TYTxkbq4o/giphy.gif" alt="reading-gif"/>
+</div>
+
+<!-- GOODREADS-TO-READ-LIST:START -->
+<!-- GOODREADS-TO-READ-LIST:END -->
+
+## <p align="center"> ✅ Completed Reads</p>
+
+<!-- GOODREADS-READ-LIST:START -->
+<!-- GOODREADS-READ-LIST:END -->
+
+## <p align="center"> 🔄 Currently Reading</p>
+
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
 
 ---
 
 <h2 align="center">👏 Support My Work</h2>
 
 <p align="center">
-  If you find my work helpful or inspiring, consider buying me a coffee!
+  If you find my work helpful or inspiring, consider buying me a coffee to show your support.
 </p>
 
 <div align="center">
