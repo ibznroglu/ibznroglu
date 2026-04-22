@@ -152,7 +152,7 @@
 ## <p align="center"> 🔄 Currently Reading</p>
 
 <!-- GOODREADS-LIST:START -->
-- [Mother Is Watching](https://www.goodreads.com/review/show/8537126633?utm_medium=api&utm_source=rss) by Karma Brown (⭐️3.75)
+- [Mother Is Watching](https://www.goodreads.com/review/show/8537126633?utm_medium=api&utm_source=rss) by Karma Brown (⭐️3.72)
 <!-- GOODREADS-LIST:END -->
 
 ---
