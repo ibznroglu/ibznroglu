@@ -137,7 +137,7 @@
 ## <p align="center"> ✅ Completed Reads</p>
 
 <!-- GOODREADS-READ-LIST:START -->
-- [Flesh](https://www.goodreads.com/review/show/8527144597?utm_medium=api&utm_source=rss) by David Szalay (⭐️3.67)
+- [Flesh](https://www.goodreads.com/review/show/8527144597?utm_medium=api&utm_source=rss) by David Szalay (⭐️3.66)
 - [Conversations with Friends](https://www.goodreads.com/review/show/8527144488?utm_medium=api&utm_source=rss) by Sally Rooney (⭐️3.73)
 - [Just Kids](https://www.goodreads.com/review/show/8527144373?utm_medium=api&utm_source=rss) by Patti Smith (⭐️4.21)
 - [Steve Jobs](https://www.goodreads.com/review/show/8527144275?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐️4.15)
