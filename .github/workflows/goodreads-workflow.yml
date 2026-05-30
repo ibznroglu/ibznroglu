@@ -2,7 +2,7 @@ name: Goodreads reading list workflow
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "30 4 * * 1"
   workflow_dispatch:
 
 permissions:
@@ -17,10 +17,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Debug Goodreads RSS
-        run: |
-          echo "Checking Goodreads RSS response..."
-          curl -L "https://www.goodreads.com/review/list_rss/200390160?shelf=read" | head -n 40
+      - name: Pull currently reading books
+        uses: zwacky/goodreads-profile-workflow@v1.2.4
+        with:
+          goodreads_user_id: "200390160"
+          shelf: "currently-reading"
+          comment_tag_name: "GOODREADS-LIST"
+          max_books_count: "10"
+          template: "- [$title]($url) by $author (⭐️$average_rating)"
 
       - name: Pull completed reads
         uses: zwacky/goodreads-profile-workflow@v1.2.4
@@ -28,3 +32,14 @@ jobs:
           goodreads_user_id: "200390160"
           shelf: "read"
           comment_tag_name: "GOODREADS-READ-LIST"
+          max_books_count: "10"
+          template: "- [$title]($url) by $author (⭐️$average_rating)"
+
+      - name: Pull to-read books
+        uses: zwacky/goodreads-profile-workflow@v1.2.4
+        with:
+          goodreads_user_id: "200390160"
+          shelf: "to-read"
+          comment_tag_name: "GOODREADS-TO-READ-LIST"
+          max_books_count: "10"
+          template: "- [$title]($url) by $author (⭐️$average_rating)"
