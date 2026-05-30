@@ -131,28 +131,28 @@
 <!-- GOODREADS-TO-READ-LIST:START -->
 - [No One’s Coming: The Rogue Heroes Our Government Turns to When There’s Nowhere Else to Turn](https://www.goodreads.com/review/show/8537124642?utm_medium=api&utm_source=rss) by Kevin Hazzard (⭐️4.45)
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/8537121932?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.32)
-- [Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI](https://www.goodreads.com/review/show/8537120127?utm_medium=api&utm_source=rss) by Karen Hao (⭐️4)
+- [Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI](https://www.goodreads.com/review/show/8537120127?utm_medium=api&utm_source=rss) by Karen Hao (⭐️4.00)
 <!-- GOODREADS-TO-READ-LIST:END -->
 
 ## <p align="center"> ✅ Completed Reads</p>
 
 <!-- GOODREADS-READ-LIST:START -->
+- [Mother Is Watching](https://www.goodreads.com/review/show/8537126633?utm_medium=api&utm_source=rss) by Karma Brown (⭐️3.65)
 - [Flesh](https://www.goodreads.com/review/show/8527144597?utm_medium=api&utm_source=rss) by David Szalay (⭐️3.66)
 - [Conversations with Friends](https://www.goodreads.com/review/show/8527144488?utm_medium=api&utm_source=rss) by Sally Rooney (⭐️3.73)
 - [Just Kids](https://www.goodreads.com/review/show/8527144373?utm_medium=api&utm_source=rss) by Patti Smith (⭐️4.21)
 - [Steve Jobs](https://www.goodreads.com/review/show/8527144275?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐️4.15)
 - [We Did Ok, Kid: A Memoir](https://www.goodreads.com/review/show/8527144155?utm_medium=api&utm_source=rss) by Anthony Hopkins (⭐️4.04)
-- [A Promised Land](https://www.goodreads.com/review/show/8527143911?utm_medium=api&utm_source=rss) by Barack Obama (⭐️4.3)
-- [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/review/show/8527143811?utm_medium=api&utm_source=rss) by Ashlee Vance (⭐️4.1)
+- [A Promised Land](https://www.goodreads.com/review/show/8527143911?utm_medium=api&utm_source=rss) by Barack Obama (⭐️4.30)
+- [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/review/show/8527143811?utm_medium=api&utm_source=rss) by Ashlee Vance (⭐️4.10)
 - [The Autobiography of Malcolm X](https://www.goodreads.com/review/show/8527143717?utm_medium=api&utm_source=rss) by Malcolm X (⭐️4.36)
 - [It Chooses You](https://www.goodreads.com/review/show/8527143547?utm_medium=api&utm_source=rss) by Miranda July (⭐️4.01)
-- [Anatomy for the Artist](https://www.goodreads.com/review/show/8527143446?utm_medium=api&utm_source=rss) by Sarah Simblet (⭐️4.08)
 <!-- GOODREADS-READ-LIST:END -->
 
 ## <p align="center"> 🔄 Currently Reading</p>
 
 <!-- GOODREADS-LIST:START -->
-- [Mother Is Watching](https://www.goodreads.com/review/show/8537126633?utm_medium=api&utm_source=rss) by Karma Brown (⭐️3.66)
+- [The Choices We Make](https://www.goodreads.com/review/show/8644896565?utm_medium=api&utm_source=rss) by Karma Brown (⭐️4.09)
 <!-- GOODREADS-LIST:END -->
 
 ---
