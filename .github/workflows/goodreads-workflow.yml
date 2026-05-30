@@ -17,29 +17,79 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Pull currently reading books
-        uses: zwacky/goodreads-profile-workflow@v1.2.4
-        with:
-          goodreads_user_id: "200390160"
-          shelf: "currently-reading"
-          comment_tag_name: "GOODREADS-LIST"
-          max_books_count: "10"
-          template: "- [$title]($url) by $author (⭐️$average_rating)"
+      - name: Update README from Goodreads RSS
+        run: |
+          python <<'PY'
+          import re
+          import urllib.request
+          import xml.etree.ElementTree as ET
 
-      - name: Pull completed reads
-        uses: zwacky/goodreads-profile-workflow@v1.2.4
-        with:
-          goodreads_user_id: "200390160"
-          shelf: "read"
-          comment_tag_name: "GOODREADS-READ-LIST"
-          max_books_count: "10"
-          template: "- [$title]($url) by $author (⭐️$average_rating)"
+          USER_ID = "200390160"
+          README = "README.md"
+          MAX_BOOKS = 10
 
-      - name: Pull to-read books
-        uses: zwacky/goodreads-profile-workflow@v1.2.4
-        with:
-          goodreads_user_id: "200390160"
-          shelf: "to-read"
-          comment_tag_name: "GOODREADS-TO-READ-LIST"
-          max_books_count: "10"
-          template: "- [$title]($url) by $author (⭐️$average_rating)"
+          SHELVES = [
+              ("to-read", "GOODREADS-TO-READ-LIST"),
+              ("read", "GOODREADS-READ-LIST"),
+              ("currently-reading", "GOODREADS-LIST"),
+          ]
+
+          def text(item, tag):
+              value = item.findtext(tag)
+              return value.strip() if value else ""
+
+          def books_from_shelf(shelf):
+              url = f"https://www.goodreads.com/review/list_rss/{USER_ID}?shelf={shelf}"
+              req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+
+              with urllib.request.urlopen(req, timeout=30) as res:
+                  root = ET.fromstring(res.read())
+
+              channel = root.find("channel")
+              if channel is None:
+                  raise RuntimeError(f"No RSS channel found for shelf: {shelf}")
+
+              lines = []
+              for item in channel.findall("item")[:MAX_BOOKS]:
+                  title = text(item, "title")
+                  link = text(item, "link")
+                  author = text(item, "author_name")
+                  rating = text(item, "average_rating")
+
+                  if title and link:
+                      lines.append(f"- [{title}]({link}) by {author} (⭐️{rating})")
+
+              return "\n".join(lines)
+
+          def replace_block(content, tag, body):
+              start = f"<!-- {tag}:START -->"
+              end = f"<!-- {tag}:END -->"
+              pattern = re.compile(re.escape(start) + r".*?" + re.escape(end), re.S)
+
+              if not pattern.search(content):
+                  raise RuntimeError(f"README tag not found: {tag}")
+
+              return pattern.sub(f"{start}\n{body}\n{end}", content)
+
+          with open(README, "r", encoding="utf-8") as f:
+              content = f.read()
+
+          for shelf, tag in SHELVES:
+              content = replace_block(content, tag, books_from_shelf(shelf))
+
+          with open(README, "w", encoding="utf-8") as f:
+              f.write(content)
+          PY
+
+      - name: Commit README changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet; then
+            echo "No README changes."
+          else
+            git add README.md
+            git commit -m "docs: update Goodreads reading list"
+            git push
+          fi
