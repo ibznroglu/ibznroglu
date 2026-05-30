@@ -17,23 +17,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Pull currently reading books
-        uses: zwacky/goodreads-profile-workflow@v1.2.4
-        with:
-          goodreads_user_id: "200390160"
-          shelf: "currently-reading"
-          comment_tag_name: "GOODREADS-LIST"
-
       - name: Pull completed reads
         uses: zwacky/goodreads-profile-workflow@v1.2.4
         with:
           goodreads_user_id: "200390160"
           shelf: "read"
           comment_tag_name: "GOODREADS-READ-LIST"
-
-      - name: Pull to-read books
-        uses: zwacky/goodreads-profile-workflow@v1.2.4
-        with:
-          goodreads_user_id: "200390160"
-          shelf: "to-read"
-          comment_tag_name: "GOODREADS-TO-READ-LIST"
