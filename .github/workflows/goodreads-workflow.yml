@@ -17,6 +17,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Debug Goodreads RSS
+        run: |
+          echo "Checking Goodreads RSS response..."
+          curl -L "https://www.goodreads.com/review/list_rss/200390160?shelf=read" | head -n 40
+
       - name: Pull completed reads
         uses: zwacky/goodreads-profile-workflow@v1.2.4
         with:
