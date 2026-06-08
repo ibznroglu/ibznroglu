@@ -129,7 +129,7 @@
 </div>
 
 <!-- GOODREADS-TO-READ-LIST:START -->
-- [No One’s Coming: The Rogue Heroes Our Government Turns to When There’s Nowhere Else to Turn](https://www.goodreads.com/review/show/8537124642?utm_medium=api&utm_source=rss) by Kevin Hazzard (⭐️4.45)
+- [No One’s Coming: The Rogue Heroes Our Government Turns to When There’s Nowhere Else to Turn](https://www.goodreads.com/review/show/8537124642?utm_medium=api&utm_source=rss) by Kevin Hazzard (⭐️4.44)
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/8537121932?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.32)
 - [Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI](https://www.goodreads.com/review/show/8537120127?utm_medium=api&utm_source=rss) by Karen Hao (⭐️4.00)
 <!-- GOODREADS-TO-READ-LIST:END -->
@@ -137,7 +137,7 @@
 ## <p align="center"> ✅ Completed Reads</p>
 
 <!-- GOODREADS-READ-LIST:START -->
-- [Mother Is Watching](https://www.goodreads.com/review/show/8537126633?utm_medium=api&utm_source=rss) by Karma Brown (⭐️3.66)
+- [Mother Is Watching](https://www.goodreads.com/review/show/8537126633?utm_medium=api&utm_source=rss) by Karma Brown (⭐️3.64)
 - [Flesh](https://www.goodreads.com/review/show/8527144597?utm_medium=api&utm_source=rss) by David Szalay (⭐️3.66)
 - [Conversations with Friends](https://www.goodreads.com/review/show/8527144488?utm_medium=api&utm_source=rss) by Sally Rooney (⭐️3.73)
 - [Just Kids](https://www.goodreads.com/review/show/8527144373?utm_medium=api&utm_source=rss) by Patti Smith (⭐️4.21)
@@ -146,7 +146,7 @@
 - [A Promised Land](https://www.goodreads.com/review/show/8527143911?utm_medium=api&utm_source=rss) by Barack Obama (⭐️4.30)
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/review/show/8527143811?utm_medium=api&utm_source=rss) by Ashlee Vance (⭐️4.10)
 - [The Autobiography of Malcolm X](https://www.goodreads.com/review/show/8527143717?utm_medium=api&utm_source=rss) by Malcolm X (⭐️4.36)
-- [It Chooses You](https://www.goodreads.com/review/show/8527143547?utm_medium=api&utm_source=rss) by Miranda July (⭐️4.01)
+- [It Chooses You](https://www.goodreads.com/review/show/8527143547?utm_medium=api&utm_source=rss) by Miranda July (⭐️4.02)
 <!-- GOODREADS-READ-LIST:END -->
 
 ## <p align="center"> 🔄 Currently Reading</p>
