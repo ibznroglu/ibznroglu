@@ -129,7 +129,7 @@
 </div>
 
 <!-- GOODREADS-TO-READ-LIST:START -->
-- [No One’s Coming: The Rogue Heroes Our Government Turns to When There’s Nowhere Else to Turn](https://www.goodreads.com/review/show/8537124642?utm_medium=api&utm_source=rss) by Kevin Hazzard (⭐️4.43)
+- [No One’s Coming: The Rogue Heroes Our Government Turns to When There’s Nowhere Else to Turn](https://www.goodreads.com/review/show/8537124642?utm_medium=api&utm_source=rss) by Kevin Hazzard (⭐️4.42)
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/8537121932?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.32)
 - [Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI](https://www.goodreads.com/review/show/8537120127?utm_medium=api&utm_source=rss) by Karen Hao (⭐️4.01)
 <!-- GOODREADS-TO-READ-LIST:END -->
@@ -137,7 +137,7 @@
 ## <p align="center"> ✅ Completed Reads</p>
 
 <!-- GOODREADS-READ-LIST:START -->
-- [Mother Is Watching](https://www.goodreads.com/review/show/8537126633?utm_medium=api&utm_source=rss) by Karma Brown (⭐️3.63)
+- [Mother Is Watching](https://www.goodreads.com/review/show/8537126633?utm_medium=api&utm_source=rss) by Karma Brown (⭐️3.61)
 - [Flesh](https://www.goodreads.com/review/show/8527144597?utm_medium=api&utm_source=rss) by David Szalay (⭐️3.65)
 - [Conversations with Friends](https://www.goodreads.com/review/show/8527144488?utm_medium=api&utm_source=rss) by Sally Rooney (⭐️3.73)
 - [Just Kids](https://www.goodreads.com/review/show/8527144373?utm_medium=api&utm_source=rss) by Patti Smith (⭐️4.21)
