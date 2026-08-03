@@ -138,7 +138,7 @@
 
 <!-- GOODREADS-READ-LIST:START -->
 - [Mother Is Watching](https://www.goodreads.com/review/show/8537126633?utm_medium=api&utm_source=rss) by Karma Brown (⭐️3.58)
-- [Flesh](https://www.goodreads.com/review/show/8527144597?utm_medium=api&utm_source=rss) by David Szalay (⭐️3.65)
+- [Flesh](https://www.goodreads.com/review/show/8527144597?utm_medium=api&utm_source=rss) by David Szalay (⭐️3.64)
 - [Conversations with Friends](https://www.goodreads.com/review/show/8527144488?utm_medium=api&utm_source=rss) by Sally Rooney (⭐️3.72)
 - [Just Kids](https://www.goodreads.com/review/show/8527144373?utm_medium=api&utm_source=rss) by Patti Smith (⭐️4.21)
 - [Steve Jobs](https://www.goodreads.com/review/show/8527144275?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐️4.15)
