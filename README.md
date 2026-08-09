@@ -1,26 +1,17 @@
 <h2>
-  <span>Hi there! 👋 I'm İsa. Welcome to my GitHub profile. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <span>Hi there! 👋 I'm İsa. Welcome to my GitHub profile.</span>
   <span style="float: right;">
     <img src="https://komarev.com/ghpvc/?username=ibznroglu" alt="profile views">
   </span>
 </h2>
 <div style="clear: both;"></div>
 
-<h2 align="center">👨‍💻 Who Am I</h2>
-
 <div align="center">
   <strong>
-    Front-End Developer | React · Vue.js · Next.js | TypeScript | AI-Assisted Development
+    Front-End Developer | React · TypeScript · Vue.js · Next.js | AI-Assisted Development
   </strong>
-  <br/>
-  <br/>
-  <br/>
+  <br/><br/>
 
-<img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFqMXliMWJ3d3c1OW5ic3diOWs0NXc3dmRndWJ4NHNkZnAwcTJoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="coding-gif"/>
-
-</div>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/isabezeniroglu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn"/>
   </a>
@@ -37,75 +28,80 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+## 🔭 Currently
 
-🎯 **Building scalable, high-performance web interfaces — from enterprise banking platforms to AI-assisted developer workflows.**
+Shipping **kafadan**, a Turkish quiz app on Expo Router, React Native and Appwrite — realtime leaderboard, authentication, and a multi-agent development pipeline.
 
-💼 I'm a **Front-End Developer** with hands-on experience delivering production-grade web applications using **React, TypeScript, Vue.js, and Next.js**. My professional background spans enterprise-level banking and public sector projects, including valuation platforms used by major Turkish banks such as **Halkbank** and clients like the **Land Registry Directorate of Turkey**.
-
-🚀 I bring a strong foundation in **component-based architecture, REST API integration, CI/CD pipelines, and Agile/Scrum delivery**. I care deeply about clean code, SOLID principles, performance optimization, and cross-functional collaboration.
-
-🤖 I actively integrate **AI-assisted development** into my daily workflow — including **Claude Code** with CLAUDE.md-based context management, custom slash commands, and agent workflow automation — to accelerate delivery, improve code quality, and reduce repetitive overhead.
-
-🎓 I hold a **Bachelor's Degree in Computer Education & Instructional Technology** from Uludağ University, and I'm currently pursuing an **Advanced React Certificate** from Scrimba.
-
-🔗 View my resume: https://isabezeniroglu.com/isa_bezeniroglu_resume.pdf
-
-<h2 align="center">🧰 Tech Stack & Tools</h2>
-
-#### 💻 Core Technologies
-
-`React` `TypeScript` `JavaScript (ES6+)` `Vue.js (Vue 3, Composition API)` `Next.js` `React Native` `HTML` `CSS` `SCSS` `Tailwind CSS`
-
-#### 🧱 UI Libraries & Design
-
-`Material UI (MUI)` `Ant Design` `Figma` `Adobe Photoshop` `Adobe Illustrator`
-
-#### 🗂️ State Management & Architecture
-
-`Redux` `Context API` `Advanced React Patterns` `Component Architecture` `SOLID` `OOP` `BDD` `Unit Testing`
-
-#### 🌐 APIs & Performance
-
-`REST APIs` `API Integration` `Performance Optimization` `Responsive Design` `Cross-Browser Compatibility`
-
-#### ⚙️ DevOps & Tools
-
-`Git` `GitHub` `GitLab` `GitHub Actions` `Jenkins` `CI/CD Pipelines` `SonarQube` `Docker`
-
-#### 🤖 AI-Assisted Development
-
-`Claude Code` `CLAUDE.md Context Management` `Custom Slash Commands` `Agent Workflow Automation` `Subagent Orchestration` `Prompt Engineering` `AI-Assisted Code Generation & Refactoring`
-
-#### 🧪 Methodologies & Collaboration
-
-`Agile` `Scrum` `Jira` `Confluence` `Cross-functional Collaboration`
-
-<div align="center">
-  <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxnaGRxcWF3bWNmMzJyN2g3MHpoNG1zNWhuaHJyemE2endiOGgybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4tJTOagKdHix67E73o/giphy.gif" alt="Up-gif"/>
-</div>
+Rebuilding [isabezeniroglu.com](https://isabezeniroglu.com/) on Vite and TypeScript: bundle down from 131 kB to 67 kB gzip, images from 3.73 MB to 233 KB, and a serverless contact endpoint validated with Zod and protected by Cloudflare Turnstile. Lighthouse 100 / 100 / 96 / 100.
 
 ---
 
-<h2 align="center">📈 Stats</h2>
+## 🗂️ Selected Work
 
-## <p align="center"> ⚡ GitHub</p>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [isabezeniroglu.com](https://isabezeniroglu.com/) · [repo](https://github.com/ibznroglu/MyPortfolio) | Bilingual portfolio with per-route canonicals, a build-time image pipeline, and a serverless contact endpoint behind Turnstile | React · TypeScript · Vite · Vercel Functions |
+| [kafadan](https://github.com/ibznroglu/kafadan) | Turkish quiz app with realtime leaderboard and auth, built with a multi-agent development pipeline | React Native · Expo Router · Appwrite |
+| [vargelogluinsaat.com](https://vargelogluinsaat.com/) · [repo](https://github.com/ibznroglu/vargeloglu-insaat-Vue) | Corporate site for a construction company — bilingual content, gallery, SEO and analytics | Vue 3 · TypeScript |
+| [SurveyApp](https://github.com/ferhattufekci/SurveyApp) | Full-stack survey platform, built with [@ferhattufekci](https://github.com/ferhattufekci) | React · REST API |
+
+Enterprise work — real estate valuation platforms for Turkish banks — is under NDA and not public.
+
+---
+
+## 👨‍💻 About Me
+
+💼 **Front-End Developer** delivering production web applications with **React, TypeScript, Vue.js and Next.js**. My professional work spans enterprise banking and public sector projects — valuation platforms used by major Turkish banks including **Halkbank**, and clients such as the **Land Registry Directorate of Turkey**.
+
+🚀 Component-based architecture, REST API integration, CI/CD pipelines, Agile/Scrum delivery. I care about clean code, measurable performance, and accessibility that is verified rather than assumed.
+
+🤖 I work with **AI-assisted development** daily — Claude Code with CLAUDE.md context management and multi-agent workflows. It lets me move through unfamiliar territory quickly without dropping review discipline: every change still goes through a pull request, a typecheck, a test run and a performance budget.
+
+🎓 **B.Sc. in Computer Education & Instructional Technology**, Uludağ University. Currently taking the **Advanced React** certificate at Scrimba.
+
+📄 [Resume](https://isabezeniroglu.com/isa_bezeniroglu_resume.pdf)
+
+---
+
+## ⚙️ How I Work
+
+- **Measured, not assumed.** Performance and accessibility claims come with numbers — my portfolio ships at 67 kB gzip and Lighthouse 100/100/96/100, and CI blocks on byte budgets rather than on a score that swings with runner load.
+- **Small pull requests, green pipeline.** `master` is protected; typecheck, lint, tests and a Lighthouse budget run on every PR.
+- **Decisions get written down.** Trade-offs live in the README and in commit messages, so the next reader does not have to reverse-engineer them.
+- **Accessibility is part of done.** Semantic landmarks, keyboard paths and contrast ratios are checked, not hoped for.
+
+---
+
+## 🧰 Tech Stack
+
+**Core** · `React` `TypeScript` `JavaScript (ES6+)` `Vue 3` `Next.js` `React Native` `Tailwind CSS` `SCSS`
+
+**State & architecture** · `Redux` `Context API` `Component Architecture` `SOLID` `Unit Testing`
+
+**UI** · `Material UI` `Ant Design` `Figma`
+
+**Backend & data** · `REST APIs` `Firebase` `Appwrite` `Serverless Functions` `Zod`
+
+**DevOps** · `Git` `GitHub Actions` `Jenkins` `Docker` `SonarQube` `Vercel` `Lighthouse CI`
+
+**AI-assisted development** · `Claude Code` `Multi-agent workflows` `Context management (CLAUDE.md)`
+
+**Ways of working** · `Agile` `Scrum` `Jira` `Confluence`
+
+---
+
+## 📈 Stats
 
 <p align="center">
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibznroglu&theme=react" alt="Profile Details"/>
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibznroglu&theme=react" alt="Repos per Language"/>
 </p>
 <p align="center">
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibznroglu&theme=react" alt="Repos per Language"/>
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibznroglu&theme=react" alt="Most Used Language"/>
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibznroglu&theme=react" alt="Stats"/>
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ibznroglu&theme=react&utcOffset=3" alt="Productive Time"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibznroglu&theme=react" alt="GitHub Streak"/>
 </p>
-
-## <p align="center"> 🌐 3D Contribution Graph</p>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
@@ -113,43 +109,14 @@
 
 ---
 
-<h2 align="center">✍️ Latest Blog Posts</h2>
+## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-<h2 align="center">📚 Reading Journey</h2>
-
-## <p align="center"> 📖 Next on My List</p>
-
-<div align="center">
-  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBteHdtZ25peTFyYXBtMGcza3QxMG5mcDE2bjN1NXpjMGpiZ3ZqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E1lFyWjy13aZ1DvnZL/giphy.gif" alt="reading-gif"/>
-</div>
-
-<!-- GOODREADS-TO-READ-LIST:START -->
-- [No One’s Coming: The Rogue Heroes Our Government Turns to When There’s Nowhere Else to Turn](https://www.goodreads.com/review/show/8537124642?utm_medium=api&utm_source=rss) by Kevin Hazzard (⭐️4.39)
-- [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/8537121932?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.31)
-- [Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI](https://www.goodreads.com/review/show/8537120127?utm_medium=api&utm_source=rss) by Karen Hao (⭐️4.01)
-<!-- GOODREADS-TO-READ-LIST:END -->
-
-## <p align="center"> ✅ Completed Reads</p>
-
-<!-- GOODREADS-READ-LIST:START -->
-- [Mother Is Watching](https://www.goodreads.com/review/show/8537126633?utm_medium=api&utm_source=rss) by Karma Brown (⭐️3.58)
-- [Flesh](https://www.goodreads.com/review/show/8527144597?utm_medium=api&utm_source=rss) by David Szalay (⭐️3.64)
-- [Conversations with Friends](https://www.goodreads.com/review/show/8527144488?utm_medium=api&utm_source=rss) by Sally Rooney (⭐️3.72)
-- [Just Kids](https://www.goodreads.com/review/show/8527144373?utm_medium=api&utm_source=rss) by Patti Smith (⭐️4.21)
-- [Steve Jobs](https://www.goodreads.com/review/show/8527144275?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐️4.15)
-- [We Did Ok, Kid: A Memoir](https://www.goodreads.com/review/show/8527144155?utm_medium=api&utm_source=rss) by Anthony Hopkins (⭐️4.04)
-- [A Promised Land](https://www.goodreads.com/review/show/8527143911?utm_medium=api&utm_source=rss) by Barack Obama (⭐️4.30)
-- [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/review/show/8527143811?utm_medium=api&utm_source=rss) by Ashlee Vance (⭐️4.10)
-- [The Autobiography of Malcolm X](https://www.goodreads.com/review/show/8527143717?utm_medium=api&utm_source=rss) by Malcolm X (⭐️4.36)
-- [It Chooses You](https://www.goodreads.com/review/show/8527143547?utm_medium=api&utm_source=rss) by Miranda July (⭐️4.02)
-<!-- GOODREADS-READ-LIST:END -->
-
-## <p align="center"> 🔄 Currently Reading</p>
+## 📚 Currently Reading
 
 <!-- GOODREADS-LIST:START -->
 - [The Choices We Make](https://www.goodreads.com/review/show/8644896565?utm_medium=api&utm_source=rss) by Karma Brown (⭐️4.09)
@@ -157,24 +124,14 @@
 
 ---
 
-<h2 align="center">👏 Support My Work</h2>
+## 💼 Open To
 
-<p align="center">
-  If you find my work helpful or inspiring, consider buying me a coffee to show your support.
-</p>
+Mid to senior **front-end roles**, and product teams where the front-end owns a slice of the backend — I write the serverless endpoints, validation and data rules my own features need, and I'm deliberately widening that surface.
 
-<div align="center">
-  <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRqMWplMm1seGxwaG41M2Nib2hibWg1dGg5a212cXZ4dGptenJtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JmxUEPJmVhZPkycY91/giphy.gif" alt="Support-gif"/>
-</div>
+Open to remote and to relocation.
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/ibznroglu" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
-         alt="Buy Me A Coffee" 
-         style="height: 45px; width: 180px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
-  </a>
-</p>
+The fastest way to reach me is [email](mailto:ibznroglu@gmail.com) or [LinkedIn](https://www.linkedin.com/in/isabezeniroglu/).
 
 ---
 
-<h3 align="center">Let's Connect — I'm always open to collaborate and share ideas! 🚀</h3>
+<h3 align="center">Let's connect — always open to collaborate and share ideas 🚀</h3>
