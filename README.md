@@ -27,7 +27,7 @@
   <a href="mailto:ibznroglu@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail"/>
   </a>
-  <a href="https://isabezeniroglu.vercel.app/" target="_blank">
+  <a href="https://isabezeniroglu.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=24292F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Website"/>
   </a>
   <a href="https://medium.com/@ibznroglu" target="_blank">
@@ -49,7 +49,7 @@
 
 🎓 I hold a **Bachelor's Degree in Computer Education & Instructional Technology** from Uludağ University, and I'm currently pursuing an **Advanced React Certificate** from Scrimba.
 
-🔗 View my resume: https://isabezeniroglu.vercel.app/isa_bezeniroglu_resume.pdf
+🔗 View my resume: https://isabezeniroglu.com/isa_bezeniroglu_resume.pdf
 
 <h2 align="center">🧰 Tech Stack & Tools</h2>
 
@@ -92,13 +92,13 @@
 ## <p align="center"> ⚡ GitHub</p>
 
 <p align="center">
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibznroglu&theme=react" alt="Profile Details"/>
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibznroglu&theme=react" alt="Repos per Language"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibznroglu&theme=react" alt="Profile Details"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibznroglu&theme=react" alt="Repos per Language"/>
 </p>
 <p align="center">
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibznroglu&theme=react" alt="Most Used Language"/>
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibznroglu&theme=react" alt="Stats"/>
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ibznroglu&theme=react&utcOffset=3" alt="Productive Time"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibznroglu&theme=react" alt="Most Used Language"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibznroglu&theme=react" alt="Stats"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ibznroglu&theme=react&utcOffset=3" alt="Productive Time"/>
 </p>
 
 <p align="center">
