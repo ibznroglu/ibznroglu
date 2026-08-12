@@ -29,8 +29,6 @@ jobs:
           MAX_BOOKS = 10
 
           SHELVES = [
-              ("to-read", "GOODREADS-TO-READ-LIST"),
-              ("read", "GOODREADS-READ-LIST"),
               ("currently-reading", "GOODREADS-LIST"),
           ]
 
@@ -75,6 +73,13 @@ jobs:
               content = f.read()
 
           for shelf, tag in SHELVES:
+              # The README decides which shelves it wants. A section that has been
+              # removed should not fail the run, and the RSS call is skipped
+              # entirely rather than fetched and thrown away.
+              if f"<!-- {tag}:START -->" not in content:
+                  print(f"Skipping {shelf}: no {tag} block in the README.")
+                  continue
+
               content = replace_block(content, tag, books_from_shelf(shelf))
 
           with open(README, "w", encoding="utf-8") as f:
