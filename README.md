@@ -1,14 +1,12 @@
-<h2>
-  <span>Hi there! 👋 I'm İsa. Welcome to my GitHub profile.</span>
-  <span style="float: right;">
-    <img src="https://komarev.com/ghpvc/?username=ibznroglu" alt="profile views">
-  </span>
-</h2>
-<div style="clear: both;"></div>
+<h2>Hi there! 👋 I'm İsa. Welcome to my GitHub profile.</h2>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ibznroglu" alt="profile views">
+</p>
 
 <div align="center">
   <strong>
-    Front-End Developer | React · TypeScript · Vue.js · Next.js | AI-Assisted Development
+    Full-Stack Developer (Frontend-Focused)<br/>
+    React · TypeScript · Vue.js · Next.js · React Native · C# / ASP.NET Core
   </strong>
   <br/><br/>
 
@@ -30,9 +28,9 @@
 
 ## 🔭 Currently
 
-Shipping **kafadan**, a Turkish quiz app on Expo Router, React Native and Appwrite — realtime leaderboard, authentication, and a multi-agent development pipeline.
+My main focus is [**Envanex**](https://github.com/ibznroglu/envanex), an independent inventory ERP project built with **C#, ASP.NET Core, EF Core and SQL Server**. I work on API design, data modelling, authentication and automated testing, documenting technical decisions as the project develops.
 
-Rebuilding [isabezeniroglu.com](https://isabezeniroglu.com/) on Vite and TypeScript: bundle down from 131 kB to 67 kB gzip, images from 3.73 MB to 233 KB, and a serverless contact endpoint validated with Zod and protected by Cloudflare Turnstile. Lighthouse 100 / 100 / 96 / 100.
+I also continue working on [**kafadan**](https://github.com/ibznroglu/kafadan), my React Native quiz app; [**my portfolio**](https://isabezeniroglu.com/); and [**Vargeloğlu İnşaat**](https://github.com/ibznroglu/vargeloglu-insaat-Vue), a Vue 3 website for a real client.
 
 ---
 
@@ -40,35 +38,34 @@ Rebuilding [isabezeniroglu.com](https://isabezeniroglu.com/) on Vite and TypeScr
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [Envanex](https://github.com/ibznroglu/envanex) | Independent inventory ERP in development, with API, data and authentication work documented in the repository | C# · ASP.NET Core · EF Core · SQL Server · xUnit |
 | [isabezeniroglu.com](https://isabezeniroglu.com/) · [repo](https://github.com/ibznroglu/MyPortfolio) | Bilingual portfolio with per-route canonicals, a build-time image pipeline, and a serverless contact endpoint behind Turnstile | React · TypeScript · Vite · Vercel Functions |
 | [kafadan](https://github.com/ibznroglu/kafadan) | Turkish quiz app with realtime leaderboard and auth, built with a multi-agent development pipeline | React Native · Expo Router · Appwrite |
 | [vargelogluinsaat.com](https://vargelogluinsaat.com/) · [repo](https://github.com/ibznroglu/vargeloglu-insaat-Vue) | Corporate site for a construction company — bilingual content, gallery, SEO and analytics | Vue 3 · TypeScript |
 | [SurveyApp](https://github.com/ferhattufekci/SurveyApp) | Full-stack survey platform, built with [@ferhattufekci](https://github.com/ferhattufekci) | React · REST API |
 
-Enterprise work — real estate valuation platforms for Turkish banks — is under NDA and not public.
+My professional frontend work includes real estate valuation platforms used by major Turkish banks and public-sector clients. These codebases are not public.
 
 ---
 
 ## 👨‍💻 About Me
 
-💼 **Front-End Developer** delivering production web applications with **React, TypeScript, Vue.js and Next.js**. My professional work spans enterprise banking and public sector projects — valuation platforms used by major Turkish banks including **Halkbank**, and clients such as the **Land Registry Directorate of Turkey**.
+💼 I build web and mobile applications with **React, TypeScript, Vue.js, Next.js and React Native**, and develop backends with **C# and ASP.NET Core** in my independent projects. My most recent professional role at **KEY Yazılım** focused on the frontend of enterprise real estate valuation platforms serving major Turkish banks, including **Halkbank**, and public-sector clients such as the **Land Registry Directorate**.
 
-🚀 Component-based architecture, REST API integration, CI/CD pipelines, Agile/Scrum delivery. I care about clean code, measurable performance, and accessibility that is verified rather than assumed.
+🚀 My work spans component-based interfaces, REST API integration and collaboration with backend, product, QA and DevOps teams. In Envanex, I also work on the API and data layers with EF Core and SQL Server.
 
-🤖 I work with **AI-assisted development** daily — Claude Code with CLAUDE.md context management and multi-agent workflows. It lets me move through unfamiliar territory quickly without dropping review discipline: every change still goes through a pull request, a typecheck, a test run and a performance budget.
+🎓 **B.Sc. in Computer Education & Instructional Technology**, Uludağ University.
 
-🎓 **B.Sc. in Computer Education & Instructional Technology**, Uludağ University. Currently taking the **Advanced React** certificate at Scrimba.
-
-📄 [Resume](https://isabezeniroglu.com/isa_bezeniroglu_resume.pdf)
+📄 Resume: [English](https://isabezeniroglu.com/isa_bezeniroglu_resume.pdf) · [Türkçe](https://isabezeniroglu.com/isa_bezeniroglu_F-TR.pdf)
 
 ---
 
 ## ⚙️ How I Work
 
-- **Measured, not assumed.** Performance and accessibility claims come with numbers — my portfolio ships at 67 kB gzip and Lighthouse 100/100/96/100, and CI blocks on byte budgets rather than on a score that swings with runner load.
-- **Small pull requests, green pipeline.** `master` is protected; typecheck, lint, tests and a Lighthouse budget run on every PR.
-- **Decisions get written down.** Trade-offs live in the README and in commit messages, so the next reader does not have to reverse-engineer them.
-- **Accessibility is part of done.** Semantic landmarks, keyboard paths and contrast ratios are checked, not hoped for.
+- **Small, focused pull requests.** Clear commits, code review and automated checks keep changes reviewable.
+- **Decisions get written down.** In Envanex, I read the AI-generated implementation journals, work through the technical questions and write the Architecture Decision Records (ADRs) myself.
+- **AI-assisted development with review.** I use Claude Code for research, planning and implementation, and review the output to understand the code and the reasoning behind it.
+- **Quality checks suited to the project.** My portfolio uses typecheck, lint, tests and build checks; Envanex uses xUnit and SQL Server integration tests with Testcontainers. I also pay attention to performance, accessibility and responsive behaviour.
 
 ---
 
@@ -80,7 +77,9 @@ Enterprise work — real estate valuation platforms for Turkish banks — is und
 
 **UI** · `Material UI` `Ant Design` `Figma`
 
-**Backend & data** · `REST APIs` `Firebase` `Appwrite` `Serverless Functions` `Zod`
+**Backend & data — independent projects** · `C#` `ASP.NET Core` `EF Core` `SQL Server` `REST APIs` `Firebase` `Appwrite` `Serverless Functions` `Zod`
+
+**Testing** · `Vitest` `Testing Library` `xUnit` `Testcontainers`
 
 **DevOps** · `Git` `GitHub Actions` `Jenkins` `Docker` `SonarQube` `Vercel` `Lighthouse CI`
 
@@ -93,11 +92,11 @@ Enterprise work — real estate valuation platforms for Turkish banks — is und
 ## 📈 Stats
 
 <p align="center">
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibznroglu&theme=react" alt="Profile Details"/>
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibznroglu&theme=react" alt="Profile Details"/>
 </p>
 <p align="center">
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibznroglu&theme=react" alt="Repos per Language"/>
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibznroglu&theme=react" alt="Most Used Language"/>
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibznroglu&theme=react" alt="Repos per Language"/>
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibznroglu&theme=react" alt="Most Used Language"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibznroglu&theme=react" alt="GitHub Streak"/>
@@ -112,6 +111,7 @@ Enterprise work — real estate valuation platforms for Turkish banks — is und
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+Read my articles on [Medium](https://medium.com/@ibznroglu).
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -126,7 +126,7 @@ Enterprise work — real estate valuation platforms for Turkish banks — is und
 
 ## 💼 Open To
 
-Mid to senior **front-end roles**, and product teams where the front-end owns a slice of the backend — I write the serverless endpoints, validation and data rules my own features need, and I'm deliberately widening that surface.
+**Frontend-focused full-stack and frontend roles** where I can contribute my enterprise frontend experience, work across web and mobile, and take on API and data-layer responsibilities.
 
 Open to remote and to relocation.
 
